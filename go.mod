@@ -7,7 +7,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1
 	github.com/spf13/viper v1.16.0
 	go.uber.org/zap v1.25.0
-	google.golang.org/grpc v1.57.0
+	google.golang.org/grpc v1.57.1
 	google.golang.org/protobuf v1.30.0
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/gorm v1.25.1
